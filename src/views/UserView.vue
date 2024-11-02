@@ -1,8 +1,9 @@
 <script setup lang="ts">
-</script>
 
+</script>
 <template>
   <main>
-    <h1>TheWelcome</h1>
+    <h1 >Users list </h1>
+
   </main>
 </template>
